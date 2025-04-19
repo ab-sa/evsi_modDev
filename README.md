@@ -1,0 +1,1 @@
+This is a step-by-step vignette for EVSI calculation for model development. The methodology used in this vignette can be found from our manscript titled "Expected value of sample information calculations for risk prediction model development" available at https://arxiv.org/abs/2410.03096.
